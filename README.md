@@ -43,11 +43,11 @@ Develop the scenarios that can help stakeholders to inform decision making, that
 * Can you investigate the factors that influence building energy performance at a small area scale?
 
 ## Data Sets available:
-The following datasets are available [here](https://drive.google.com/drive/folders/13JUb8uIGvNHYLtqk1gWqaEl0Ihi6E6-h?usp=sharing):
-* Irish census data 2011: 
-* Countries or Cities
-* Small areas (Neighbourhood) 
-* Irish EPC data
+
+* Irish Census Data [Download](https://drive.google.com/drive/folders/13JUb8uIGvNHYLtqk1gWqaEl0Ihi6E6-h?usp=sharing) 
+  * Countries or Cities
+  * Small areas (Neighbourhood) 
+* Irish EPC data [Download](https://drive.google.com/drive/folders/13JUb8uIGvNHYLtqk1gWqaEl0Ihi6E6-h?usp=sharing) | [Terms and Conditions](https://ndber.seai.ie/BERResearchTool/TnC.pdf)
 * Other relevant datasets that you can find
 
 ## Challenge Instructions
