@@ -1,3 +1,22 @@
+# EnerGraph App
+(original challenge description down below)
+
+Angular and D3 interactive heatmap-map visualization tool, using a GraphDB backend to query and show Energy Performance Certificates across Counties and Electoral Divisions in Ireland.
+
+This demo was developed at a hackathon. It requires a populated GraphDB for querying the EPC data, and GeoJSON map data, which is tool large to include in this repo.
+
+The GeoJSON maps for Counties and Electoral Divisions can be found here:
+https://www.townlands.ie/page/download/
+place them in assets folder, with the names: 
+"counties.geojson"
+"eds.geojson"
+
+Some of the provided data has a granularity matching the "Small Areas" style of boundaries.
+Attemps to make the "Small\_Areas\_Ungeneralised_-_OSi_National_Statistical_Boundaries_-_2015.geojson" work with the GraphDB were not successful within the timeframe.
+
+![scrrenshot1](./counties_screenshot.png "Counties resolution")
+![scrrenshot2](./eds_screenshot.png "EDS resolution")
+
 # Challenge 1: Multi-spatial-scale linking and inferencing challenge
 
 **Champions**: Cathal Hoare and James O’Donnell with Usman Ali available over Zoom. 
